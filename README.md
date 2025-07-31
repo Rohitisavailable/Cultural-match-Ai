@@ -27,11 +27,10 @@ https://cultural-match-ai-5kaa8zgj7jzn6lpvkyqgkc.streamlit.app/
 
    
 2. **Install dependencies**
-
-  pip install -r requirements.txt
+      pip install -r requirements.txt
 
 3. **Run the app**
-   streamlit run culturematch_ai.py
+      streamlit run culturematch_ai.py
 
 
 🌟 Inspiration
