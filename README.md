@@ -10,7 +10,7 @@ CultureMatch AI is a powerful AI-driven application that helps you discover and 
 
 ## 🚀 Live Demo
 
-Coming soon or [host your own on Streamlit](https://streamlit.io/)
+https://cultural-match-ai-5kaa8zgj7jzn6lpvkyqgkc.streamlit.app/
 
 ## 📦 Built With
 
@@ -19,13 +19,6 @@ Coming soon or [host your own on Streamlit](https://streamlit.io/)
 - [Qloo API](https://qloo.com/) – for cultural data and recommendations
 - [python-dotenv](https://pypi.org/project/python-dotenv/) – for environment variable management (for local dev)
 
-## 📁 Project Structure
-
-culturematch-ai/
-├── culturematch_ai.py # Main Streamlit app
-├── requirements.txt # Python dependencies
-├── .env (or Streamlit secrets) # API keys (not committed)
-└── README.md # You're here!
 ## 🧪 Setup & Run Locally
 
 1. **Clone the repo**
