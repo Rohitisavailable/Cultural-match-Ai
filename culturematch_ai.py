@@ -5,18 +5,18 @@ import streamlit as st
 import requests
 import os
 from dotenv import load_dotenv
-load_dotenv() # Load environment variables from .env file
+load_dotenv() 
 QLOO_API_KEY = os.getenv("QLOO_API_KEY")
  
 
-# Qloo API base
-QLOO_BASE_URL = "https://api.qloo.com"  # Adjust if Qloo docs specify another
+
+QLOO_BASE_URL = "https://api.qloo.com"  
 HEADERS = {
     "x-api-key": QLOO_API_KEY,
     "Content-Type": "application/json"
 }
 
-# GPT-4 call wrapper
+
 def get_gpt_response(prompt):
     OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
     if not OPENAI_API_KEY:
