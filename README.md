@@ -29,7 +29,7 @@ culturematch-ai/
 ## 🧪 Setup & Run Locally
 
 1. **Clone the repo**
-   git clone https://github.com/yourusername/culturematch-ai.git
+   git clone https://github.com/Rohitisavailable/Cultural-match-Ai.git
    cd culturematch-ai
 
    
